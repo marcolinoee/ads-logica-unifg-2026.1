@@ -1,0 +1,6 @@
+tamanho = float(input("tamanho do arquivo (mb): "))
+velocidade = float(input("velocidade da internet (mbps): "))
+tempo_segundos = tamanho / (velocidade / 8)
+minutos = int(tempo_segundos // 60)
+segundos = int(tempo_segundos % 60)
+print(f"{minutos} minutos e {segundos} segundos")
