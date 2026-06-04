@@ -1,0 +1,5 @@
+print("1. F - O primeiro índice em Python é 0, não 1.")
+print("2. V")
+print("3. F - Uma lista de listas pode ter sublistas com tamanhos diferentes.")
+print("4. V")
+print("5. V")

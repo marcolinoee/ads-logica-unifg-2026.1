@@ -1,0 +1,5 @@
+print("1. linha")
+print("2. lista externa")
+print("3. elemento")
+print("4. linha")
+print("5. coluna")
