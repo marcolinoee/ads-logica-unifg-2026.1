@@ -1,0 +1,5 @@
+print("1. F - O primeiro índice é 0")
+print("2. V")
+print("3. F - Linhas podem ter tamanhos diferentes")
+print("4. V")
+print("5. V")
